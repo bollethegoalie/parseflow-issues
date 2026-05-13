@@ -1,6 +1,6 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Support email
+  - name: Support email (preferred)
     url: mailto:support@parseflow.tech
     about: Billing, account, and private documents/questions.
   - name: Documentation
